@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "ALi11111",
+      "email": "hyyddyy@gmail.com",
+      "phoneNumber": "09155307527",
+      "password": "Aa#123456",
+      "passwordConfirm": "Aa#123456",
+      "gender": "0",
+      "nationality":"US",
+      "intrests":["React.js"],
+      "terms":false
+    }
+  ]
+}
